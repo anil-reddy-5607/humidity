@@ -1,0 +1,10 @@
+🧰 Components Required:
+Arduino UNO (or compatible board)
+
+DHT11 or DHT22 (Temperature & Humidity Sensor)
+
+BMP180 or BMP280 (Barometric Pressure Sensor)
+
+SD Card Module with microSD card
+
+Breadboard and jumper wires
